@@ -1,0 +1,20 @@
+
+
+@font-face {
+  font-family: 'mg_brush_version_2regular';
+  src: url(./fonts/mgbrushversion2-regular-webfont.woff) format('woff2'),
+       url(./fonts/mgbrushversion2-regular-webfont.woff2) format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+@font-face {
+  font-family: 'zai_covid-19_vaccineregular';
+  src: url(./fonts/zai_covid-19vaccine-webfont.woff2) format('woff2'),
+       url(./fonts/zai_covid-19vaccine-webfont.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}

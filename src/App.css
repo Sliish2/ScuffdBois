@@ -1,0 +1,42 @@
+
+
+@font-face {
+  font-family: 'mg_brush_version_2regular';
+  src: url(./fonts/mgbrushversion2-regular-webfont.woff) format('woff2'),
+       url(./fonts/mgbrushversion2-regular-webfont.woff2) format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.gif1 {
+  text-align: left;
+  
+}
+.App {
+  text-align: center;
+  font-family:"mg_brush_version_2regular";
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
+.moving-background {
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+
+}
