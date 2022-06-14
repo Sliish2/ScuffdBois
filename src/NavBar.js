@@ -22,7 +22,7 @@ const NavBar = ({accounts, setAccounts}) => {
          <Flex justify="space-between" align="center" padding="30px 30px">
              {/*Left Side - Social Media Icons */}
              <Flex justify="space-around" width="20%" padding="0 75px"v>
-                 <Link href="https:www.opensea.com">
+                 <Link href="https://opensea.io/collection/scuffdbois-wtf">
                      <Image src={Opensea} boxSize="42px" margin="0 15px" />
                  </Link>
                  <Link href="https://twitter.com/scuffdboiswtf">
